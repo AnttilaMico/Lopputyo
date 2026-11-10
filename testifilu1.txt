@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Gitstastesti
+=======
+kirsikoita poimin
+>>>>>>> 98ce2d1 (Tulen cherrypickkaamaan tämän commitin)
